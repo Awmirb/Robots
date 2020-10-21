@@ -2,7 +2,7 @@
   "name": "robots",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Awmirb.github.io/robots",
+  "homepage": "https://Awmirb.github.io/Robots",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
